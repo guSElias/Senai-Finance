@@ -37,3 +37,8 @@ npm run build
 ```sh
 npm run lint
 ```
+### Start [Json-Server].
+
+```sh
+npx json-server financas.json
+```

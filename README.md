@@ -1,4 +1,4 @@
-# prova
+# Senai Finance
 
 This template should help get you started developing with Vue 3 in Vite.
 
@@ -37,7 +37,7 @@ npm run build
 ```sh
 npm run lint
 ```
-### Start [Json-Server].
+### Start Json-Server.
 
 ```sh
 npx json-server financas.json
